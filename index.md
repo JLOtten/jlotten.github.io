@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is a blog I am writing during my software engineering apprenticeship. Ultimately, it will help me process and record this experience, but maybe someone will enjoy it too. 
